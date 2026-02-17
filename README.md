@@ -9,7 +9,7 @@ This project analyses the performance of customer call agents within a specific 
 ---
 
 ## 📁 Dataset Description
-- **Source:** Internal call centre or CRM system logs from the target team
+- **Source:** 01 Call-Center-Dataset.xlsx
 - **Time Period:** Defined range of call records
 - **Granularity:** Individual agent-level data
 
