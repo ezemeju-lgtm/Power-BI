@@ -18,6 +18,8 @@ the performance of customer call agents within a specific team. The primary obje
 - **Source:** [01 Call-Center-Dataset.xlsx](https://github.com/ezemeju-lgtm/Power-BI/blob/main/01%20Call-Center-Dataset.xlsx)
 - **Time Period:** Defined range of call records
 - **Granularity:** Individual agent-level data
+- Interact with the live project here [View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjdhZmQyYTUtNmJlYS00MWZkLWE1MmYtZjRiYmY1OGNlZTcyIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
+
 
 ### Key Fields Included:
 | Field | Description |
